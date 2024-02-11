@@ -10,6 +10,9 @@
 
 # Examples:
 
+## Xylos
+![Alt text](/XylosThemeExample.png?raw=true "XylosTheme Example")
+
 ## jSkin
 ![Alt text](/JSkinExample.png?raw=true "jSkin Example")
 
