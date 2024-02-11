@@ -1,16 +1,23 @@
 # [WinForms] Theme Pack (26 themes + base)
 
-~26 custom Windows Forms themes and controls in 1 folder.
+~28 custom Windows Forms themes and controls in 1 folder.
 
 ## Changelog
 
-*+Feb 2024: Added Xylos
+*+Feb 2024:
+ - Added Ethereal
+ - Added Xylos
 
 *+Dec 2020: Added jSkin
 
 *+May 2020: Added NetSeal Themes*
 
 # Examples:
+
+## Ethereal
+![Alt text](/EtherealThemeExample.png?raw=true "EtherealTheme Example")
+
+----------------------------------------------------------------
 
 ## Xylos
 ![Alt text](/XylosThemeExample.png?raw=true "XylosTheme Example")
@@ -47,6 +54,7 @@
 
 # Theme files:
 ```csharp
++ Ethereal
 + Xylos
 + Aeonhack1-Positron [x]
 + Aeonhack2-Ghost    [x]
@@ -115,3 +123,5 @@ Mephobia
 UnReLaTeDScript
 
 Naywyn
+
+Narwin
