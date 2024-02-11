@@ -15,36 +15,15 @@
 ## Xylos
 ![Alt text](/XylosThemeExample.png?raw=true "XylosTheme Example")
 
+----------------------------------------------------------------
+
 ## jSkin
 ![Alt text](/JSkinExample.png?raw=true "jSkin Example")
 
-## NetSeal Original
-![Alt text](/NetSealExOriginal.png?raw=true "NetSeal Original Theme")
-
 ----------------------------------------------------------------
 
-## NetSeal Amethyst
-![Alt text](/NetSealExAmethyst.png?raw=true "NetSeal Amethyst Theme")
-
-----------------------------------------------------------------
-
-## NetSeal BrightGreen
-![Alt text](/NetSealExBrightGreen.png?raw=true "NetSeal BrightGreen Theme")
-
-----------------------------------------------------------------
-
-## NetSeal Clouds
-![Alt text](/NetSealExClouds.png?raw=true "NetSeal Clouds Theme")
-
-----------------------------------------------------------------
-
-## NetSeal Emerald
-![Alt text](/NetSealExEmerald.png?raw=true "NetSeal Emerald Theme")
-
-----------------------------------------------------------------
-
-## NetSeal Pr Blue
-![Alt text](/NetSealExPrBlue.png?raw=true "NetSeal Pr Blue Theme")
+## NetSeal
+![Alt text](/NetSealEx.gif?raw=true "NetSeal Example")
 
 ----------------------------------------------------------------
 
@@ -57,7 +36,6 @@
 
 ![Alt text](/PositronThemeExample.png?raw=true "Positron Theme")
 
-
 ----------------------------------------------------------------
 
 # Base files:
@@ -69,6 +47,7 @@
 
 # Theme files:
 ```csharp
++ Xylos
 + Aeonhack1-Positron [x]
 + Aeonhack2-Ghost    [x]
 + Aevion             [x]
@@ -134,3 +113,5 @@ HazelDev
 Mephobia
 
 UnReLaTeDScript
+
+Naywyn
