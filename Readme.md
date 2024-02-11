@@ -1,4 +1,4 @@
-# [WinForms] Theme Pack (26 themes + base)
+# [WinForms] Theme Pack (28 themes + base)
 
 ~28 custom Windows Forms themes and controls in 1 folder.
 
