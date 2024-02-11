@@ -23,7 +23,7 @@
 ----------------------------------------------------------------
 
 ## NetSeal
-![Alt text](/NetSealEx.gif?raw=true "NetSeal Example")
+![Alt text](/NetSealThemeExample.gif?raw=true "NetSeal Example")
 
 ----------------------------------------------------------------
 
